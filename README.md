@@ -7,13 +7,13 @@ Livraria para simplificar o uso de gerador de imagens com inteligência artifici
 Use o gerenciador de pacotes para realizar a instalação.
 
 ```js
-npm install unladenperson.js
+npm install unladenperson
 ```
 
 ## Usage
 
 ```js
-var { LoadGenerate, UnicGenerate } = require('unladenperson.js')
+var { LoadGenerate, UnicGenerate } = require('unladenperson')
 
 console.log(LoadGenerate) // Output: Url
 ```
