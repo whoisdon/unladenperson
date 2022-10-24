@@ -1,4 +1,4 @@
-# thispersondoesnotexist.js
+# unladenperson.js
 
 Livraria para simplificar o uso de gerador de imagens com inteligência artificial.
 
@@ -7,13 +7,13 @@ Livraria para simplificar o uso de gerador de imagens com inteligência artifici
 Use o gerenciador de pacotes para realizar a instalação.
 
 ```js
-npm install thispersondoesnotexist.js
+npm install unladenperson.js
 ```
 
 ## Usage
 
 ```js
-var { LoadGenerate, UnicGenerate } = require('thispersondoesnotexist.js')
+var { LoadGenerate, UnicGenerate } = require('unladenperson.js')
 
 console.log(LoadGenerate) // Output: Url
 ```
