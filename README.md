@@ -13,9 +13,9 @@ npm install thispersondoesnotexist.js
 ## Usage
 
 ```js
-var thispersondoesnotexist = require('thispersondoesnotexist.js')
+var { LoadGenerate, UnicGenerate } = require('thispersondoesnotexist.js')
 
-console.log(thispersondoesnotexist.generate) // Output: Url
+console.log(LoadGenerate) // Output: Url
 ```
 
 ## Contributing
